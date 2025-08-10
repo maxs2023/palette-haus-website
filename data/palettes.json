@@ -1,0 +1,108 @@
+[
+  {
+    "id": "scandi-neutrals-01",
+    "title": "Scandinavian Neutrals I",
+    "slug": "scandinavian-neutrals-i",
+    "categories": [
+      "Proven",
+      "Neutrals"
+    ],
+    "image": "images/palettes/scandi-neutrals-01.svg",
+    "hex_codes": [
+      "#EDEBE7",
+      "#C3BABA",
+      "#8D9A72",
+      "#E6E6E6",
+      "#C1B49A"
+    ],
+    "description": "A calming neutral set inspired by Scandinavian interiors\u2014soft whites, warm grey, and muted sage.",
+    "price": 7.99,
+    "download_link": "https://example.com/download/scandi-neutrals-01",
+    "bundle_tag": "Scandinavian Neutrals"
+  },
+  {
+    "id": "lime-cream-01",
+    "title": "Lime Cream Series I",
+    "slug": "lime-cream-series-i",
+    "categories": [
+      "Trending",
+      "Seasonal"
+    ],
+    "image": "images/palettes/lime-cream-01.svg",
+    "hex_codes": [
+      "#F3F2ED",
+      "#DAD5C9",
+      "#8D9A72",
+      "#B2C27C",
+      "#6B7D3A"
+    ],
+    "description": "2025's quiet statement: lime cream and rich herbals for kitchens, baths, and sunrooms.",
+    "price": 7.99,
+    "download_link": "https://example.com/download/lime-cream-01",
+    "bundle_tag": "Lime Cream Series"
+  },
+  {
+    "id": "dopamine-01",
+    "title": "Dopamine Decor I",
+    "slug": "dopamine-decor-i",
+    "categories": [
+      "Trending",
+      "Bold"
+    ],
+    "image": "images/palettes/dopamine-01.svg",
+    "hex_codes": [
+      "#FEE75C",
+      "#FF8FA3",
+      "#7F5AF0",
+      "#00C2FF",
+      "#0FA3B1"
+    ],
+    "description": "Playful saturation that energizes living rooms and studios without sacrificing balance.",
+    "price": 7.99,
+    "download_link": "https://example.com/download/dopamine-01",
+    "bundle_tag": "Dopamine Decor"
+  },
+  {
+    "id": "farmhouse-01",
+    "title": "Modern Farmhouse I",
+    "slug": "modern-farmhouse-i",
+    "categories": [
+      "Proven",
+      "Neutrals"
+    ],
+    "image": "images/palettes/farmhouse-01.svg",
+    "hex_codes": [
+      "#F7F5F2",
+      "#D4CFC7",
+      "#9C8F80",
+      "#6B655D",
+      "#3B3A36"
+    ],
+    "description": "Creams, flax, and soft charcoals\u2014timeless farmhouse tones that feel modern.",
+    "price": 7.99,
+    "download_link": "https://example.com/download/farmhouse-01",
+    "bundle_tag": "Modern Farmhouse"
+  },
+  {
+    "id": "burgundy-navy-01",
+    "title": "Burgundy & Navy I",
+    "slug": "burgundy-and-navy-i",
+    "categories": [
+      "Proven",
+      "Bold",
+      "Seasonal"
+    ],
+    "image": "images/palettes/burgundy-navy-01.svg",
+    "hex_codes": [
+      "#0F1B2A",
+      "#1C2E4A",
+      "#8B2635",
+      "#D9CAB3",
+      "#EAE7DC"
+    ],
+    "description": "A moody, luxurious pairing that remains livable with balanced neutrals.",
+    "price": 7.99,
+    "download_link": "https://example.com/download/burgundy-and-navy-01",
+    "bundle_tag": "Burgundy & Navy"
+  }
+]

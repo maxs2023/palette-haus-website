@@ -1,0 +1,18 @@
+{
+  "name": "gpt5-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "gpt5": "./gpt5.mjs"
+  },
+  "scripts": {
+    "gpt5": "node gpt5.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.57.0",
+    "minimist": "^1.2.8",
+    "globby": "^14.0.2",
+    "istextorbinary": "^6.0.0"
+  }
+}

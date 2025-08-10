@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "scandinavian-neutrals",
+    "title": "Scandinavian Neutrals",
+    "description": "A collection of soft whites, oat, and sage for calm, light-filled spaces.",
+    "palettes": [
+      "scandinavian-neutrals-i"
+    ]
+  },
+  {
+    "slug": "modern-farmhouse",
+    "title": "Modern Farmhouse",
+    "description": "Flax, oatmeal, and forged black\u2014easy to apply, impossible to dislike.",
+    "palettes": [
+      "modern-farmhouse-i"
+    ]
+  },
+  {
+    "slug": "dopamine-decor",
+    "title": "Dopamine Decor",
+    "description": "Bold, joyful color stories that still feel curated.",
+    "palettes": [
+      "dopamine-decor-i"
+    ]
+  },
+  {
+    "slug": "lime-cream-series",
+    "title": "Lime Cream Series",
+    "description": "2025's soft green-yellow wave for kitchens and entries.",
+    "palettes": [
+      "lime-cream-series-i"
+    ]
+  },
+  {
+    "slug": "burgundy-navy",
+    "title": "Burgundy & Navy",
+    "description": "Deep contrast with cozy neutrals for libraries and dining rooms.",
+    "palettes": [
+      "burgundy-and-navy-i"
+    ]
+  }
+]
